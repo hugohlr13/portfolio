@@ -68,7 +68,7 @@ Bienvenue sur mon portfolio GitHub! Je suis un développeur d'applications Pytho
 - Développement d'une architecture back-end sécurisée en utilisant Python et SQL pour fournir un logiciel de gestion de la relation client (CRM).
 - Compétence :
     * Mettre en œuvre une base de données sécurisée avec Python et SQL
-- Lien vers le projet : [Testing Flask app](https://github.com/hugohlr13/epic_crm_backend)
+- Lien vers le projet : [CRM app](https://github.com/hugohlr13/epic_crm_backend)
 
 ### Projet : Mettez à l'échelle une application Django en utilisant une architecture modulaire
 - Amélioration de l'architecture d'un site web Django instable en réduisant sa dette technique. Mise en place d'une CI/CD pour déployer automatiquement le site web.
@@ -79,7 +79,7 @@ Bienvenue sur mon portfolio GitHub! Je suis un développeur d'applications Pytho
     * Déployer une application
     * Gérer la production de code en utilisant la méthodologie CI/CD
     * Appliquer une architecture modulaire dans une application Python
-- Lien vers le projet : [Testing Flask app](https://github.com/hugohlr13/p13_Python-OC-Lettings-FR)
+- Lien vers le projet : [Web app](https://github.com/hugohlr13/p13_Python-OC-Lettings-FR)
 
 ## Formation
 
