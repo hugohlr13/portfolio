@@ -3,9 +3,9 @@ Bienvenue sur mon portfolio GitHub! Je suis un développeur d'applications Pytho
 ## Compétences Techniques
 
 - **Langages**: Python, HTML, CSS, JavaScript
-- **Frameworks & Bibliothèques**: Django, Flask, Django REST Framework
-- **Outils**: PyCharm, PostgreSQL, Git, GitHub, Postman, CircleCI
-- **Principes de développement**: Programmation Orientée Objet, Test Driven Development, CI/CD
+- **Frameworks & Bibliothèques**: Django, Flask, Django REST Framework, Pytest
+- **Outils**: VS Code, Git, GitHub, Postman, CircleCI, Sentry, Heroku
+- **Principes de développement**: Programmation Orientée Objet, Test Driven Design, CI/CD
 - **Autres**: Gestion de bases de données SQL, Sécurité web (normes OWASP et RGPD), Documentation technique
 
 ## Projets Réalisés
@@ -35,6 +35,51 @@ Bienvenue sur mon portfolio GitHub! Je suis un développeur d'applications Pytho
     * Interagir avec une API REST pour récupérer et afficher les données en temps réel
 - Lien vers le projet : [Application Web de Cinéma Repo](https://github.com/hugohlr13/ocr_p6_netflix)
 
+### Projet : Résolvez des problèmes en utilisant des algorithmes en Python
+- Conception d'un algorithme Python pour maximiser les profis des clients
+- Compétences :
+    * Déconstruire un problème
+    * Développer un algorithme pour résoudre un problème
+- Lien vers le projet : [Algorithme finance](https://github.com/hugohlr13/p7_algo_finance)
+
+### Projet : Développez une application Web en utilisant Django
+- Développement d'une application web permettant à une communauté d'utilisateurs de publier des critiques de livres ou d’articles et de consulter ou de solliciter une critique de livres à la demande.
+- Compétences :
+    * Développer une application web en utilisant Django
+    * Utiliser le rendu côté serveur dans Django
+- Lien vers le projet : [Application Web Communauté livre](https://github.com/hugohlr13/p9_litreview)
+
+### Projet : Créez une API sécurisée RESTful en utilisant Django REST
+- Développement d'une API RESTful sécurisée pour gérer les projets d'entreprise, les tâches, les problèmes et les commentaires.
+- Compétences :
+    * Développer une application web en utilisant Django
+    * Utiliser le rendu côté serveur dans Django
+- Lien vers le projet : [API Project Management](https://github.com/hugohlr13/p10_softdeskapi)
+
+### Projet : Améliorez une application Web Python par des tests et du débogage
+- Amélioration d'une application FLask en corrigeant les erreurs et ajoutant les fonctionnalités à l'aide du test-driven design.
+- Compétences :
+    * Implémentez une suite de tests Python
+    * Debugger le code d’une application Python
+    * Gérer les erreurs et les exceptions en Python
+- Lien vers le projet : [Testing Flask app](https://github.com/hugohlr13/Python_Testing)
+
+### Projet : Développez une architecture back-end sécurisée avec Python et SQL
+- Développement d'une architecture back-end sécurisée en utilisant Python et SQL pour fournir un logiciel de gestion de la relation client (CRM).
+- Compétence :
+    * Mettre en œuvre une base de données sécurisée avec Python et SQL
+- Lien vers le projet : [Testing Flask app](https://github.com/hugohlr13/epic_crm_backend)
+
+### Projet : Mettez à l'échelle une application Django en utilisant une architecture modulaire
+- Amélioration de l'architecture d'un site web Django instable en réduisant sa dette technique. Mise en place d'une CI/CD pour déployer automatiquement le site web.
+- Compétence :
+    * Documenter une application
+    * Refactoriser une application pour réduire la dette technique
+    * Mettre en place un système de contrôle des codes en utilisant Sentry
+    * Déployer une application
+    * Gérer la production de code en utilisant la méthodologie CI/CD
+    * Appliquer une architecture modulaire dans une application Python
+- Lien vers le projet : [Testing Flask app](https://github.com/hugohlr13/p13_Python-OC-Lettings-FR)
 
 ## Formation
 
